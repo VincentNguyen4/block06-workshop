@@ -1,0 +1,31 @@
+.special-header{
+  color: darkviolet;}
+
+p{
+  border: solid lime 4px;
+  padding: 25px;
+}
+
+h1, h2, h3{
+  background-color: yellow;
+  color: blueviolet;
+  display: inline-block;
+}
+
+table, td, th{
+  border: solid 2px black;
+  border-collapse: collapse;
+}
+
+th{
+  background-color: lightgrey;
+  text-decoration: underline;
+}
+
+ul{
+  list-style-type:georgian;
+}
+
+ol{
+  list-style-type:armenian;
+}
